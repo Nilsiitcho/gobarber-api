@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b9d444e-2913-4530-a2ee-fec068f8725b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/database/migrations/1600142208000-AlterProviderFieldToProviderId.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/users.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/CreateUserService.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/database/migrations/1599056831805-CreateAppointments.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/migrations/1599056831805-CreateAppointments.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/database/migrations/1599166138391-CreateUsers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/migrations/1599166138391-CreateUsers.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Appointment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Appointment.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/User.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/User.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/appointments.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/appointments.routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/CreateAppointmentService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/CreateAppointmentService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,8 @@
       <workItem from="1599161630994" duration="4606000" />
       <workItem from="1599334848075" duration="3000" />
       <workItem from="1600139830004" duration="73000" />
-      <workItem from="1600139930008" duration="3568000" />
+      <workItem from="1600139930008" duration="3945000" />
+      <workItem from="1600182150754" duration="1644000" />
     </task>
     <servers />
   </component>
@@ -146,9 +149,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="469" y="179" key="SettingsEditor/-1440.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599079516285" />
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1599074584534">
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1600184555110">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/-1440.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599074584534" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/-1440.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1600184555110" />
   </component>
 </project>
