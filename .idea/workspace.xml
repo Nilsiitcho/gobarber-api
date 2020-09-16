@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b9d444e-2913-4530-a2ee-fec068f8725b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/@types/express.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/auth.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/upload.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database/migrations/1600283661264-AddAvatarFieldToUsers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middlewares/ensureAuthenticated.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/UpdateUserAvatarService.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/appointments.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/appointments.routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/sessions.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/sessions.routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/upload.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/upload.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/User.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/User.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes/users.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/users.routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/AuthenticateUserService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/AuthenticateUserService.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +74,7 @@
       <workItem from="1599334848075" duration="3000" />
       <workItem from="1600139830004" duration="73000" />
       <workItem from="1600139930008" duration="3945000" />
-      <workItem from="1600182150754" duration="8672000" />
+      <workItem from="1600182150754" duration="10624000" />
     </task>
     <servers />
   </component>
@@ -162,9 +153,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="469" y="179" key="SettingsEditor/-1440.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599079516285" />
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1600284875682">
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1600296836005">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/-1440.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1600284875682" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/-1440.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1600296836005" />
   </component>
 </project>
