@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b9d444e-2913-4530-a2ee-fec068f8725b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/services/UpdateUserAvatarService.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config/upload.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/upload.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/User.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/User.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/users.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/users.routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +46,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../outros/luiz-parcella" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../../outros/luiz-parcella/src/sections/middleSection" />
       <recent name="$PROJECT_DIR$/../../outros/luiz-parcella/src/main" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../../outros/luiz-parcella" />
     </key>
   </component>
   <component name="RunManager">
@@ -74,7 +72,9 @@
       <workItem from="1599334848075" duration="3000" />
       <workItem from="1600139830004" duration="73000" />
       <workItem from="1600139930008" duration="3945000" />
-      <workItem from="1600182150754" duration="10624000" />
+      <workItem from="1600182150754" duration="13210000" />
+      <workItem from="1600546524100" duration="294000" />
+      <workItem from="1600804140392" duration="863000" />
     </task>
     <servers />
   </component>
@@ -93,10 +93,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="710" y="340" key="#com.intellij.fileTypes.FileTypeChooser/-1440.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1600284378980" />
-    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600279735039">
+    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600546468296">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1440.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1600279735039" />
+    <state x="648" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1440.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1600546468296" />
     <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599162496241">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -153,9 +153,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="469" y="179" key="SettingsEditor/-1440.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599079516285" />
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1600296836005">
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1600804493807">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/-1440.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1600296836005" />
+    <state x="-971" y="297" width="670" height="564" key="search.everywhere.popup/-1440.96.1440.900/0.0.1920.1080@-1440.96.1440.900" timestamp="1600303241276" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/-1440.96.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1600804493807" />
   </component>
 </project>
